@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Graduated from University Of Mumbai in India.
 - 💼 &nbsp; Looking for a Job.
-- 🌱 &nbsp; Learning more about React.
+- 🌱 &nbsp; Currently learning more about React.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
