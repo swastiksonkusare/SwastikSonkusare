@@ -31,8 +31,8 @@
 <br/>
 
 <a href="https://github.com/Swastik">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Swastik18&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik18&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SwastikSonkusare&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwastikSonkusare&theme=buefy&layout=compact" />
 </a>
 
 <br/>
