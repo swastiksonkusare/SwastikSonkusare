@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Graduated from University Of Mumbai in India.
-- 💼 &nbsp; Looking for a Job.
-- 🌱 &nbsp; Currently learning more about React and React Native.
+- 💼 &nbsp; Analyst/Developer in Tata Consultancy Services 
+- 🌱 &nbsp; Currently learning more about React and machine learning.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
