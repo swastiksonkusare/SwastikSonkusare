@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Graduated from University Of Mumbai in India.
-- 💼 &nbsp; Analyst/Developer in Tata Consultancy Services 
-- 🌱 &nbsp; Currently learning more about React and machine learning.
+- 💼 &nbsp; Software Engineer at Ratham
+- 🌱 &nbsp; Currently learning more about React JS and Next JS.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
