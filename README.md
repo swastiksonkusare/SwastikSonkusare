@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Graduated from University Of Mumbai in India.
-- 💼 &nbsp; Software Engineer at Ratham
-- 🌱 &nbsp; Currently learning more about React JS and Next JS.
+- 💼 &nbsp; Seeking new opportunities
+- 🌱 &nbsp; Currently learning more about React JS, Next JS, SQL, Power BI.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
